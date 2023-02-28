@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316" height="252" viewBox="0 0 316 252">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2077" data-name="사각형 2077" width="10" height="10" fill="#c784ff"/>
+    </clipPath>
+    <filter id="사각형_1853" x="33.002" y="117" width="250" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#505050" flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="사각형_1692" data-name="사각형 1692" width="8.334" height="8.001" fill="none"/>
+    </clipPath>
+    <filter id="사각형_1853-2" x="38.002" y="82" width="240" height="48" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#505050" flood-opacity="0.537"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_1692-2" data-name="사각형 1692" width="7.957" height="7.639" fill="gray"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.511" x2="0.511" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3f1c5d"/>
+    </linearGradient>
+  </defs>
+  <text id="예측_문제는_미래에_일어날_일을_맞추면_승리합니다._유저의_선택률에_따라_받게되는_킬포인트가_정해집니다." data-name="예측 문제는 미래에 일어날 일을 맞추면 승리합니다.
+유저의 선택률에 따라 받게되는 킬포인트가 정해집니다." transform="translate(158 231)" fill="#d5d5d5" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-122.412" y="0">예측 문제는 미래에 일어날 일을 맞추면 승리합니다.</tspan><tspan x="-131.988" y="18">유저의 선택률에 따라 받게되는 킬포인트가 정해집니다.</tspan></text>
+  <g id="slide-img1" transform="translate(-562 -651)">
+    <rect id="사각형_2608" data-name="사각형 2608" width="316" height="194" transform="translate(562 651)" fill="#3f1c5d"/>
+    <g id="contents-predict" transform="translate(162.416 46.5)">
+      <rect id="bg-popup" width="284" height="170" transform="translate(415.586 619.5)"/>
+      <g id="그룹_2655" data-name="그룹 2655" transform="translate(0.587 -10.5)">
+        <text id="_예측_이번_게임에서_POG를_받을_선수는_" data-name="[예측]  이번 게임에서 POG를 받을 선수는?" transform="translate(557.999 686)" fill="#c784ff" font-size="13" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em"><tspan x="-111.579" y="0">[예측]</tspan><tspan y="0" xml:space="preserve" fill="#fff">  이번 게임에서 POG를 받을 선수는?</tspan></text>
+      </g>
+      <g id="그룹_3085" data-name="그룹 3085" transform="translate(10 9.688)">
+        <text id="_2:20" data-name="2:20" transform="translate(436.587 619.813)" fill="#c784ff" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="12">2:20</tspan></text>
+        <g id="그룹_3061" data-name="그룹 3061" transform="translate(422.586 622.813)">
+          <g id="그룹_2670" data-name="그룹 2670" transform="translate(0 0)" clip-path="url(#clip-path)">
+            <path id="패스_1279" data-name="패스 1279" d="M5,0a5,5,0,1,0,5,5A5,5,0,0,0,5,0M7.839,5.323H5.587a.669.669,0,1,1-.908-.908V1.071h.645V4.414a.672.672,0,0,1,.264.264H7.84Z" transform="translate(0 0)" fill="#c784ff"/>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_3062" data-name="그룹 3062" transform="translate(27.086 -44.604)">
+        <text id="_3_564" data-name="3,564" transform="translate(631.5 674.104)" fill="#b5b5b5" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="12">3,564</tspan></text>
+        <g id="ico-human" transform="translate(137.916 30.604)">
+          <circle id="타원_32" data-name="타원 32" cx="2.5" cy="2.5" r="2.5" transform="translate(482.085 646.5)" fill="#444"/>
+          <path id="사각형_2121" data-name="사각형 2121" d="M4,0H6a4,4,0,0,1,4,4V4a0,0,0,0,1,0,0H0A0,0,0,0,1,0,4V4A4,4,0,0,1,4,0Z" transform="translate(479.585 652.5)" fill="#444"/>
+        </g>
+      </g>
+      <g id="보기1_-_활성화" data-name="보기1 - 활성화" transform="translate(1.587 -81.5)">
+        <g transform="matrix(1, 0, 0, 1, 398, 686)" filter="url(#사각형_1853)">
+          <g id="사각형_1853-3" data-name="사각형 1853" transform="translate(42 126)" stroke="#af51ff" stroke-width="1">
+            <rect width="232" height="30" rx="3" stroke="none"/>
+            <rect x="0.5" y="0.5" width="231" height="29" rx="2.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Oner" transform="translate(449.999 833)" fill="#fff" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">Oner</tspan></text>
+        <g id="그룹_2476" data-name="그룹 2476" transform="translate(67 16)">
+          <text id="_15.4_" data-name="15.4%" transform="translate(514.999 816)" fill="#fff" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">15.4%</tspan></text>
+          <text id="헥사킬" transform="translate(567.999 816)" fill="#fff" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">헥사킬</tspan></text>
+          <g id="ico-kill" transform="translate(-127.001 340)">
+            <rect id="사각형_1693" data-name="사각형 1693" width="10" height="10" transform="translate(683 467)" fill="#fff" opacity="0"/>
+            <g id="그룹_2322" data-name="그룹 2322" transform="translate(683.833 468)">
+              <g id="그룹_2321" data-name="그룹 2321" clip-path="url(#clip-path-2)">
+                <path id="패스_935" data-name="패스 935" d="M18.484,0c-.835.027-.888.641-1.109,1.121a2.64,2.64,0,0,1-.424.62L15.46.834l-.441.725L18.572,3.72l.441-.725-1.232-.75c.151-.175.333-.386.444-.515.37-.435,1.185.057,1.5-.282S19.319-.027,18.484,0" transform="translate(-11.46 0)" fill="#fff"/>
+                <path id="패스_936" data-name="패스 936" d="M6.475,13.018a2.975,2.975,0,0,1-.718.227,3.526,3.526,0,0,1-.94-.033l1.2-1.269-1.554-1L1.9,14.651A2.325,2.325,0,0,1,0,15.6a3.281,3.281,0,0,0,3.868.258,7.149,7.149,0,0,0,2.255-2.3h0Z" transform="translate(0 -8.348)" fill="#fff"/>
+              </g>
+            </g>
+          </g>
+          <g id="ico-human-2" data-name="ico-human" transform="translate(-180.498 339.503)">
+            <rect id="사각형_1693-2" data-name="사각형 1693" width="10" height="10" transform="translate(683.497 467.497)" fill="#fff" opacity="0"/>
+            <circle id="타원_22" data-name="타원 22" cx="2" cy="2" r="2" transform="translate(686.497 468.497)" fill="#fff"/>
+            <path id="사각형_1694" data-name="사각형 1694" d="M4,0H4A4,4,0,0,1,8,4V4A0,0,0,0,1,8,4H0A0,0,0,0,1,0,4V4A4,4,0,0,1,4,0Z" transform="translate(684.497 472.497)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="ico-purple-check" transform="translate(-4)">
+          <rect id="사각형_2447" data-name="사각형 2447" width="14" height="14" transform="translate(485 820)" fill="#fff" opacity="0"/>
+          <g id="그룹_2577" data-name="그룹 2577" transform="translate(-1.341 -0.963)">
+            <rect id="사각형_1942" data-name="사각형 1942" width="2" height="7" transform="translate(487.341 827.499) rotate(-45)" fill="#af51ff"/>
+            <rect id="사각형_1943" data-name="사각형 1943" width="2" height="10" transform="translate(497.947 823.963) rotate(45)" fill="#af51ff"/>
+          </g>
+        </g>
+      </g>
+      <g id="보기1_-_활성화-2" data-name="보기1 - 활성화" transform="translate(6.587 -116.5)">
+        <g transform="matrix(1, 0, 0, 1, 393, 721)" filter="url(#사각형_1853-2)">
+          <g id="사각형_1853-4" data-name="사각형 1853" transform="translate(47 91)" stroke="#555" stroke-width="1">
+            <rect width="222" height="30" rx="3" stroke="none"/>
+            <rect x="0.5" y="0.5" width="221" height="29" rx="2.5" fill="none"/>
+          </g>
+        </g>
+        <text id="Zeus" transform="translate(449.999 831)" fill="gray" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">Zeus</tspan></text>
+        <g id="그룹_2476-2" data-name="그룹 2476" transform="translate(573.025 819.638)">
+          <text id="_83.5_" data-name="83.5%" transform="translate(-0.026 11.362)" fill="gray" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">83.5%</tspan></text>
+          <text id="싱글킬" transform="translate(51.974 11.362)" fill="gray" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">싱글킬</tspan></text>
+          <g id="ico-kill-2" data-name="ico-kill" transform="translate(41.054 2.864)">
+            <rect id="사각형_1693-3" data-name="사각형 1693" width="10" height="9" transform="translate(-0.08 0.498)" fill="gray" opacity="0"/>
+            <g id="그룹_2322-2" data-name="그룹 2322" transform="translate(0.796 0.955)">
+              <g id="그룹_2321-2" data-name="그룹 2321" clip-path="url(#clip-path-3)">
+                <path id="패스_935-2" data-name="패스 935" d="M18.328,0c-.8.026-.848.612-1.059,1.07a2.52,2.52,0,0,1-.4.592L15.44.8l-.421.692,3.392,2.063.421-.692-1.176-.716c.145-.167.318-.368.424-.492.353-.415,1.131.055,1.428-.269S19.125-.026,18.328,0" transform="translate(-11.621 0)" fill="gray"/>
+                <path id="패스_936-2" data-name="패스 936" d="M6.182,12.924a2.84,2.84,0,0,1-.686.217,3.366,3.366,0,0,1-.9-.031L5.742,11.9l-1.483-.957-2.44,3.542A2.22,2.22,0,0,1,0,15.392a3.133,3.133,0,0,0,3.693.246,6.826,6.826,0,0,0,2.153-2.195h0Z" transform="translate(0 -8.466)" fill="gray"/>
+              </g>
+            </g>
+          </g>
+          <g id="ico-human-3" data-name="ico-human" transform="translate(-11 2.864)">
+            <rect id="사각형_1693-4" data-name="사각형 1693" width="10" height="9" transform="translate(-0.026 0.498)" fill="gray" opacity="0"/>
+            <circle id="타원_22-2" data-name="타원 22" cx="2" cy="2" r="2" transform="translate(2.974 0.498)" fill="gray"/>
+            <path id="사각형_1694-2" data-name="사각형 1694" d="M4,0H4A4,4,0,0,1,8,4V4A0,0,0,0,1,8,4H0A0,0,0,0,1,0,4V4A4,4,0,0,1,4,0Z" transform="translate(0.974 4.498)" fill="gray"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_2613" data-name="사각형 2613" width="316" height="90" transform="translate(562 746)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

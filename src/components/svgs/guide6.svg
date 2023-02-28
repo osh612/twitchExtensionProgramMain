@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316" height="261" viewBox="0 0 316 261">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="패스_7" data-name="패스 7" d="M144.649.891l2.273,5.332H145.91l-.764,1.8h4.766L146.729.891Z" transform="translate(-144.649 -0.891)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="0.011" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#af51ff"/>
+      <stop offset="1" stop-color="#01fcb5"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="패스_8" data-name="패스 8" d="M124.939,17.4h2.106l1.27-2.983-.995-2.345Z" transform="translate(-124.939 -12.073)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_1435" data-name="사각형 1435" width="259" height="66" transform="translate(-0.488 0.345)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect width="253" height="216" fill="none"/>
+    </clipPath>
+    <filter id="사각형_1384" x="28" y="118" width="259" height="28" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-5">
+      <rect id="사각형_1825" data-name="사각형 1825" width="12" height="11" transform="translate(-0.049 0.13)" fill="#454545"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.511" x2="0.511" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3f1c5d"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0" y1="0" x2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="그룹_3146" data-name="그룹 3146" transform="translate(-562 -651)">
+    <g id="slide-img6">
+      <rect id="사각형_2608" data-name="사각형 2608" width="316" height="194" transform="translate(562 651)" fill="#3f1c5d"/>
+    </g>
+    <g id="popup" transform="translate(17 57)">
+      <path id="bg-popup" d="M0,0H284V165H0Z" transform="translate(561 610)"/>
+      <g id="title-누적데이터" transform="translate(576.164 625.164)">
+        <text id="라이벌_랭킹" data-name="라이벌 랭킹" transform="translate(13.836 11.836)" fill="#fff" font-size="10" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">라이벌 랭킹</tspan></text>
+        <g id="그룹_2816" data-name="그룹 2816" transform="translate(0 2.676)">
+          <rect id="사각형_2192" data-name="사각형 2192" width="11" height="11" transform="translate(-0.164 0.16)" fill="#fff" opacity="0"/>
+          <g id="logo" transform="translate(1.128 1.785)">
+            <g id="그룹_3" data-name="그룹 3" transform="translate(3.183 0)" clip-path="url(#clip-path)">
+              <rect id="사각형_3" data-name="사각형 3" width="7.134" height="5.264" transform="translate(0 7.134) rotate(-90)" fill="url(#linear-gradient)"/>
+            </g>
+            <g id="그룹_6" data-name="그룹 6" transform="translate(0 1.806)">
+              <g id="그룹_5" data-name="그룹 5" clip-path="url(#clip-path-2)">
+                <rect id="사각형_4" data-name="사각형 4" width="5.328" height="8.453" transform="translate(-0.006 5.328) rotate(-90)" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_2948" data-name="그룹 2948" transform="translate(573.488 646.571)">
+        <g id="마스크_그룹_2" data-name="마스크 그룹 2" transform="translate(0 24.084)" clip-path="url(#clip-path-3)">
+          <g id="그룹_336" data-name="그룹 336" transform="translate(2.676)">
+            <g id="반복_그리드_1" data-name="반복 그리드 1" transform="translate(-0.164 0.345)" clip-path="url(#clip-path-4)">
+              <g transform="translate(-440 -768.847)">
+                <rect id="사각형_1380" data-name="사각형 1380" width="284" height="22" transform="translate(440 768.847)" fill="#262626"/>
+                <rect id="사각형_1381" data-name="사각형 1381" width="284" height="22" transform="translate(440 790.847)" fill="#343434"/>
+              </g>
+              <g transform="translate(-440 -724.847)">
+                <rect id="사각형_1380-2" data-name="사각형 1380" width="284" height="22" transform="translate(440 768.847)" fill="#262626"/>
+                <rect id="사각형_1381-2" data-name="사각형 1381" width="284" height="22" transform="translate(440 790.847)" fill="#343434"/>
+              </g>
+              <g transform="translate(-440 -680.847)">
+                <rect id="사각형_1380-3" data-name="사각형 1380" width="284" height="22" transform="translate(440 768.847)" fill="#262626"/>
+                <rect id="사각형_1381-3" data-name="사각형 1381" width="284" height="22" transform="translate(440 790.847)" fill="#343434"/>
+              </g>
+              <g transform="translate(-440 -636.847)">
+                <rect id="사각형_1380-4" data-name="사각형 1380" width="284" height="22" transform="translate(440 768.847)" fill="#262626"/>
+                <rect id="사각형_1381-4" data-name="사각형 1381" width="284" height="22" transform="translate(440 790.847)" fill="#343434"/>
+              </g>
+              <g transform="translate(-440 -592.847)">
+                <rect id="사각형_1380-5" data-name="사각형 1380" width="284" height="22" transform="translate(440 768.847)" fill="#262626"/>
+                <rect id="사각형_1381-5" data-name="사각형 1381" width="284" height="22" transform="translate(440 790.847)" fill="#343434"/>
+              </g>
+            </g>
+            <text id="더불어원픽당_고수가_되고싶다_아지르창푝푝_T1_Gumayusi_이번엔내가1등간다_세나소나세라핀_서폿유저1111_미드라이너_Hpointshop_아지르창푝푝" data-name="더불어원픽당
+고수가 되고싶다
+아지르창푝푝
+T1 Gumayusi
+이번엔내가1등간다
+세나소나세라핀
+서폿유저1111
+미드라이너
+Hpointshop
+아지르창푝푝" transform="translate(46.854 14.46)" fill="#c9c9c9" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">더불어원픽당</tspan><tspan x="0" y="22">고수가 되고싶다</tspan><tspan x="0" y="44">아지르창푝푝</tspan><tspan x="0" y="66">T1 Gumayusi</tspan><tspan x="0" y="88">이번엔내가1등간다</tspan><tspan x="0" y="110">세나소나세라핀</tspan><tspan x="0" y="132">서폿유저1111</tspan><tspan x="0" y="154">미드라이너</tspan><tspan x="0" y="176">Hpointshop</tspan><tspan x="0" y="198">아지르창푝푝</tspan></text>
+            <text id="_11_8_4_1_1_1_0_0_0" data-name="11
+8
+
+4
+1
+1
+1
+0
+0
+0" transform="translate(150.576 14.46)" fill="#c989ff" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-4.905" y="0">11</tspan><tspan x="-2.497" y="22">8</tspan><tspan x="0" y="44"></tspan><tspan x="-2.497" y="66">4</tspan><tspan x="-2.497" y="88">1</tspan><tspan x="-2.497" y="110">1</tspan><tspan x="-2.497" y="132">1</tspan><tspan x="-2.497" y="154">0</tspan><tspan x="-2.497" y="176">0</tspan><tspan x="-2.497" y="198">0</tspan></text>
+            <text id="_2_6_5_1_3_4_5_7_8" data-name="2
+6
+
+5
+1
+3
+4
+5
+7
+8" transform="translate(180.809 14.46)" fill="#ff5858" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-2.497" y="0">2</tspan><tspan x="-2.497" y="22">6</tspan><tspan x="0" y="44"></tspan><tspan x="-2.497" y="66">5</tspan><tspan x="-2.497" y="88">1</tspan><tspan x="-2.497" y="110">3</tspan><tspan x="-2.497" y="132">4</tspan><tspan x="-2.497" y="154">5</tspan><tspan x="-2.497" y="176">7</tspan><tspan x="-2.497" y="198">8</tspan></text>
+            <text id="펜타킬_쿼드라킬_더블킬_싱글킬_싱글킬_싱글킬_-_-_-" data-name="펜타킬
+쿼드라킬
+
+더블킬
+싱글킬
+싱글킬
+싱글킬
+-
+-
+-" transform="translate(219.836 14.345)" fill="#c9c9c9" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-12.24" y="0">펜타킬</tspan><tspan x="-16.29" y="22">쿼드라킬</tspan><tspan x="0" y="44"></tspan><tspan x="-12.24" y="66">더블킬</tspan><tspan x="-12.24" y="88">싱글킬</tspan><tspan x="-12.24" y="110">싱글킬</tspan><tspan x="-12.24" y="132">싱글킬</tspan><tspan x="-1.561" y="154">-</tspan><tspan x="-1.561" y="176">-</tspan><tspan x="-1.561" y="198">-</tspan></text>
+            <g id="그룹_302" data-name="그룹 302" transform="translate(7.136 4.46)">
+              <text id="_2_10_513_514_1_005_2_032_2_234_2_974_3_044_6_973" data-name="2
+10
+513
+514
+1,005
+2,032
+2,234
+2,974
+3,044
+6,973" transform="translate(17.7 9.885)" fill="#c9c9c9" font-size="8" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-2.22" y="0">2</tspan><tspan x="-4.36" y="21.8">10</tspan><tspan x="-6.5" y="43.6">513</tspan><tspan x="-6.5" y="65.4">514</tspan><tspan x="-9.672" y="87.2">1,005</tspan><tspan x="-9.672" y="109">2,032</tspan><tspan x="-9.672" y="130.8">2,234</tspan><tspan x="-9.672" y="152.6">2,974</tspan><tspan x="-9.672" y="174.4">3,044</tspan><tspan x="-9.672" y="196.2">6,973</tspan></text>
+              <path id="다각형_15" data-name="다각형 15" d="M2,0,4,3H0Z" transform="translate(7.7 5.885)" fill="#af51ff"/>
+              <path id="다각형_19" data-name="다각형 19" d="M2,0,4,3H0Z" transform="translate(-0.3 92.885)" fill="#af51ff"/>
+              <path id="다각형_20" data-name="다각형 20" d="M2,0,4,3H0Z" transform="translate(-0.3 114.885)" fill="#af51ff"/>
+              <path id="다각형_21" data-name="다각형 21" d="M2,0,4,3H0Z" transform="translate(-0.3 136.885)" fill="#af51ff"/>
+              <path id="다각형_23" data-name="다각형 23" d="M2,0,4,3H0Z" transform="translate(-0.3 201.885)" fill="#af51ff"/>
+              <path id="다각형_16" data-name="다각형 16" d="M2,0,4,3H0Z" transform="translate(9.7 29.885) rotate(180)" fill="#ff5858"/>
+              <path id="다각형_17" data-name="다각형 17" d="M2,0,4,3H0Z" transform="translate(7.7 57.885) rotate(180)" fill="#f55400"/>
+              <path id="다각형_18" data-name="다각형 18" d="M2,0,4,3H0Z" transform="translate(7.7 74.885) rotate(180)" fill="#ff5858"/>
+              <g id="사각형_1386" data-name="사각형 1386" transform="translate(-0.3 159.885)" fill="#fff" stroke="#707070" stroke-width="1">
+                <rect width="4" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="3" fill="none"/>
+              </g>
+              <g id="사각형_1387" data-name="사각형 1387" transform="translate(-0.3 181.885)" fill="#fff" stroke="#707070" stroke-width="1">
+                <rect width="4" height="1" stroke="none"/>
+                <rect x="0.5" y="0.5" width="3" fill="none"/>
+              </g>
+            </g>
+          </g>
+          <g id="그룹_337" data-name="그룹 337" transform="translate(2.676 44.167)">
+            <g transform="matrix(1, 0, 0, 1, -31.16, -120.82)" filter="url(#사각형_1384)">
+              <rect id="사각형_1384-2" data-name="사각형 1384" width="253" height="22" transform="translate(31 121)" fill="#4b1f71"/>
+            </g>
+            <text id="_513" data-name="513" transform="translate(25.836 14.178)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-7.313" y="0">513</tspan></text>
+            <text id="나야나나야1위_" data-name="나야나나야1위…" transform="translate(62.836 14.178)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="0">나야나나야1위…</tspan></text>
+            <text id="_5" data-name="5" transform="translate(150.252 14.46)" fill="#c989ff" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-2.497" y="0">5</tspan></text>
+            <text id="_4" data-name="4" transform="translate(180.809 14.46)" fill="#ff5858" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-2.497" y="0">4</tspan></text>
+            <text id="쿼드라킬" transform="translate(219.836 14.178)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-16.29" y="0">쿼드라킬</tspan></text>
+            <path id="다각형_22" data-name="다각형 22" d="M2,0,4,3H0Z" transform="translate(14.836 12.678) rotate(180)" fill="#ff5858"/>
+            <g id="ico-crown" transform="translate(47.275 6.244)">
+              <rect id="사각형_2386" data-name="사각형 2386" width="12" height="12" transform="translate(-0.439 -0.066)" fill="#fff" opacity="0"/>
+              <path id="Icon_awesome-crown" data-name="Icon awesome-crown" d="M6.623,5.62H1.4a.2.2,0,0,0-.2.2v.4a.2.2,0,0,0,.2.2H6.623a.2.2,0,0,0,.2-.2v-.4A.2.2,0,0,0,6.623,5.62Zm.8-4.014a.6.6,0,0,0-.6.6.59.59,0,0,0,.055.248L5.971,3a.4.4,0,0,1-.554-.146L4.394,1.066a.6.6,0,1,0-.76,0L2.612,2.855A.4.4,0,0,1,2.057,3L1.15,2.456A.6.6,0,1,0,.6,2.81.615.615,0,0,0,.7,2.8l.907,2.418H6.422L7.329,2.8a.615.615,0,0,0,.1.01.6.6,0,0,0,0-1.2Z" transform="translate(1.784 2.676)" fill="#ffce00"/>
+            </g>
+          </g>
+        </g>
+        <rect id="사각형_1378" data-name="사각형 1378" width="253" height="24" transform="translate(2.512 0.429)"/>
+        <text id="순위" transform="translate(18.512 14.429)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em" opacity="0.5"><tspan x="0" y="0">순위</tspan></text>
+        <text id="닉네임" transform="translate(79.512 14.429)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em" opacity="0.5"><tspan x="0" y="0">닉네임</tspan></text>
+        <text id="킬" transform="translate(148.512 14.429)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em" opacity="0.5"><tspan x="0" y="0">킬</tspan></text>
+        <text id="데스" transform="translate(175.512 14.429)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em" opacity="0.5"><tspan x="0" y="0">데스</tspan></text>
+        <text id="멀티킬" transform="translate(211.512 14.429)" fill="#fff" font-size="9" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em" opacity="0.5"><tspan x="0" y="0">멀티킬</tspan></text>
+      </g>
+      <g id="버튼" transform="translate(758.129 743.627)">
+        <rect id="사각형_2257" data-name="사각형 2257" width="79" height="21" rx="3" transform="translate(-8.128 0.373)" fill="#262626"/>
+        <text id="라이벌_추가" data-name="라이벌 추가" transform="translate(16.871 5.373)" fill="#767676" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0.484" y="10">라이벌 추가</tspan></text>
+        <g id="ico-user-plus" transform="translate(2.92 5.243)">
+          <g id="그룹_2466" data-name="그룹 2466" transform="translate(0 0)" clip-path="url(#clip-path-5)">
+            <rect id="사각형_2258" data-name="사각형 2258" width="1.338" height="8.92" transform="translate(5.065 1.338)" fill="#767676"/>
+            <rect id="사각형_2259" data-name="사각형 2259" width="1.338" height="8.92" transform="translate(10.258 5.352) rotate(90)" fill="#767676"/>
+          </g>
+        </g>
+      </g>
+      <g id="버튼-2" data-name="버튼" transform="translate(576.164 743.627)">
+        <rect id="사각형_2257-2" data-name="사각형 2257" width="61" height="21" rx="3" transform="translate(-0.164 0.373)" fill="#262626"/>
+        <text id="나가기" transform="translate(24.836 5.373)" fill="#767676" font-size="9" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0.52" y="10">나가기</tspan></text>
+        <g id="ico-out" transform="translate(10.704 5.244)">
+          <rect id="사각형_2356" data-name="사각형 2356" width="11" height="11" transform="translate(0.132 0.13)" fill="#fff" opacity="0"/>
+          <path id="Icon_open-account-logout" data-name="Icon open-account-logout" d="M5.761,0V1.152H1.152V6.914H5.761V8.066H0V0ZM6.914,2.3l2.3,1.728-2.3,1.728V4.609H2.3V3.457H6.914Z" transform="translate(1.189 1.616)" fill="gray"/>
+        </g>
+      </g>
+      <g id="btn-새로고침" transform="translate(811.648 624.272)">
+        <rect id="사각형_2147" data-name="사각형 2147" width="17" height="18" rx="3" transform="translate(0.353 -0.271)" fill="#262626"/>
+        <g id="ico-refresh" transform="translate(2.676 2.676)">
+          <rect id="사각형_2384" data-name="사각형 2384" width="13" height="12" transform="translate(-0.324 0.053)" fill="#fff" opacity="0"/>
+          <path id="Icon_material-refresh" data-name="Icon material-refresh" d="M13.619,7.31a4.461,4.461,0,1,0,1.16,4.265h-1.16a3.343,3.343,0,1,1-3.15-4.46,3.3,3.3,0,0,1,2.353.992l-1.8,1.8h3.9V6Z" transform="translate(-4.231 -4.216)" fill="gray"/>
+        </g>
+      </g>
+      <g id="btn-수신함" transform="translate(787.564 624.272)">
+        <rect id="사각형_2147-2" data-name="사각형 2147" width="17" height="18" rx="3" transform="translate(0.436 -0.271)" fill="#262626"/>
+        <g id="ico-message" transform="translate(2.676 2.676)">
+          <rect id="사각형_2385" data-name="사각형 2385" width="13" height="12" transform="translate(-0.24 0.053)" fill="#fff" opacity="0"/>
+          <path id="빼기_71" data-name="빼기 71" d="M11,7H0V0H11V7ZM.917.875v5.25h9.164V.875Z" transform="translate(0.76 3.052)" fill="gray"/>
+          <path id="패스_1416" data-name="패스 1416" d="M1356.763,186.707l4.7,3.308,4.649-3.247" transform="translate(-1355.19 -183.4)" fill="none" stroke="gray" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="ico-new-alarm" transform="translate(800.052 620.704)">
+        <circle id="타원_918" data-name="타원 918" cx="4.5" cy="4.5" r="4.5" transform="translate(-0.052 0.296)" fill="#8b41cb"/>
+        <rect id="사각형_2357" data-name="사각형 2357" width="0.892" height="2.676" transform="translate(4.014 2.23)" fill="#fff"/>
+        <rect id="사각형_2358" data-name="사각형 2358" width="0.892" height="0.892" transform="translate(4.014 5.798)" fill="#fff"/>
+      </g>
+      <rect id="사각형_2616" data-name="사각형 2616" width="316" height="90" transform="translate(545 685)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+  <g id="그룹_3147" data-name="그룹 3147" transform="translate(-562 -651)">
+    <text id="친한_친구_자주_보는_시청자들과_라이벌_그룹을_생성해_경쟁하세요._라이벌_랭킹에_따른_추가_보상이_쏟아집니다._좌측에서_을_클릭해보세요." data-name="친한 친구, 자주 보는 시청자들과 라이벌 그룹을 생성해
+경쟁하세요. 라이벌 랭킹에 따른 추가 보상이 쏟아집니다.
+좌측에서        을 클릭해보세요." transform="translate(720 873)" fill="#d5d5d5" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-129.036" y="0">친한 친구, 자주 보는 시청자들과 라이벌 그룹을 생성해</tspan><tspan x="-134.76" y="18">경쟁하세요. 라이벌 랭킹에 따른 추가 보상이 쏟아집니다.</tspan><tspan x="-72.084" y="36" xml:space="preserve">좌측에서       을 클릭해보세요.</tspan></text>
+    <g id="ico-rival" transform="translate(2 38.712)">
+      <rect id="사각형_2643" data-name="사각형 2643" width="14" height="14" rx="3" transform="translate(693 859.288)" opacity="0.996" fill="url(#linear-gradient-4)"/>
+      <path id="Icon_awesome-fist-raised" data-name="Icon awesome-fist-raised" d="M5.454,5.5V3.341A.341.341,0,0,0,5.113,3H4.431a.341.341,0,0,0-.341.341V5.562a1.013,1.013,0,0,1,.34-.062ZM8.181,7.545A1.364,1.364,0,0,0,6.818,6.182H4.429a.338.338,0,0,0-.339.338v.012A1.014,1.014,0,0,0,5.1,7.545h.751c.206,0,.281.076.281.17v.345a.175.175,0,0,1-.168.17c-.949.049-1.367.526-2.047,1.546l-.134.2a.17.17,0,0,1-.236.047l-.284-.189A.17.17,0,0,1,3.22,9.6l.134-.2A6.03,6.03,0,0,1,4.362,8.162a1.371,1.371,0,0,1-.828-.734,1.01,1.01,0,0,1-.466.118H2.386A1.015,1.015,0,0,1,1.7,7.279a1.015,1.015,0,0,1-.682.266H.341A1.007,1.007,0,0,1,0,7.483v1.66a2.727,2.727,0,0,0,.8,1.928l.565.565V13H6.818V11.637l.765-.765a2.046,2.046,0,0,0,.6-1.447ZM7.5,5.626v-1.6a.341.341,0,0,0-.341-.341H6.477a.341.341,0,0,0-.341.341V5.5h.682A2.019,2.019,0,0,1,7.5,5.626ZM.341,6.864h.682a.341.341,0,0,0,.341-.341V4.7a.341.341,0,0,0-.341-.341H.341A.341.341,0,0,0,0,4.7V6.523A.341.341,0,0,0,.341,6.864Zm2.045,0h.682a.341.341,0,0,0,.341-.341v-2.5a.341.341,0,0,0-.341-.341H2.386a.341.341,0,0,0-.341.341v2.5A.341.341,0,0,0,2.386,6.864Z" transform="translate(695.909 858.288)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

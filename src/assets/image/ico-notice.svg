@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32"
+     viewBox="0 0 32 32">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="사각형_2033" data-name="사각형 2033" width="26.815" height="24.103" fill="#7057fa"/>
+        </clipPath>
+    </defs>
+    <g id="ico-notice" transform="translate(-350 -765)">
+        <rect id="사각형_2028" data-name="사각형 2028" width="32" height="32" transform="translate(350 765)" fill="#fff"
+              opacity="0"/>
+        <g id="그룹_2628" data-name="그룹 2628" transform="translate(352.794 769.15)">
+            <g id="그룹_2628-2" data-name="그룹 2628" transform="translate(0 0)" clip-path="url(#clip-path)">
+                <path id="패스_1252" data-name="패스 1252"
+                      d="M13.407,24.1H3.324A3.319,3.319,0,0,1,.449,19.124l5.042-8.732L10.532,1.66a3.319,3.319,0,0,1,5.749,0l5.041,8.732,5.042,8.732A3.319,3.319,0,0,1,23.49,24.1Z"
+                      transform="translate(0 0)" fill="#7057fa"/>
+            </g>
+        </g>
+        <rect id="사각형_2034" data-name="사각형 2034" width="2" height="9" rx="1" transform="translate(365 775)"
+              fill="#050f1c"/>
+        <rect id="사각형_2035" data-name="사각형 2035" width="2" height="3" rx="1" transform="translate(365 786)"
+              fill="#050f1c"/>
+    </g>
+</svg>

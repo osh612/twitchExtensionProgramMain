@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="316" height="252" viewBox="0 0 316 252">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_2077" data-name="사각형 2077" width="10" height="10" fill="#41e4ff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.511" x2="0.511" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#3f1c5d"/>
+    </linearGradient>
+  </defs>
+  <text id="퀴즈는_이미_정해져있는_정답을_맞추면_승리합니다._받게되는_킬_포인트는_출제자에_의해_미리_정해집니다." data-name="퀴즈는 이미 정해져있는 정답을 맞추면 승리합니다.
+받게되는 킬 포인트는 출제자에 의해 미리 정해집니다." transform="translate(158 231)" fill="#d5d5d5" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="-121.188" y="0">퀴즈는 이미 정해져있는 정답을 맞추면 승리합니다.</tspan><tspan x="-127.812" y="18">받게되는 킬 포인트는 출제자에 의해 미리 정해집니다.</tspan></text>
+  <g id="slide-img2" transform="translate(-562 -651)">
+    <rect id="사각형_2608" data-name="사각형 2608" width="316" height="194" transform="translate(562 651)" fill="#3f1c5d"/>
+    <g id="contents-quiz" transform="translate(161.5 61.896)">
+      <rect id="bg-popup" width="284" height="170" transform="translate(416.5 604.104)"/>
+      <g id="그룹_2655" data-name="그룹 2655" transform="translate(485.34 640.586)">
+        <text id="_퀴즈_가렌이_LCK에_마지막으로_등장한_해는_" data-name="[퀴즈]  가렌이 LCK에 마지막으로 등장한 해는?" transform="translate(74.16 21.519)" fill="#41e4ff" font-size="13" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-weight="700" letter-spacing="-0.02em"><tspan x="-121.517" y="0">[퀴즈]</tspan><tspan y="0" xml:space="preserve" fill="#fff">  가렌이 LCK에 마지막으로 등장한 해는?</tspan></text>
+      </g>
+      <g id="그룹_3084" data-name="그룹 3084" transform="translate(10 -6)">
+        <text id="_1:50" data-name="1:50" transform="translate(437.5 621.104)" fill="#41e4ff" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="12">1:50</tspan></text>
+        <g id="그룹_2694" data-name="그룹 2694" transform="translate(423.5 624.104)">
+          <g id="그룹_2670" data-name="그룹 2670" transform="translate(0 0)" clip-path="url(#clip-path)">
+            <path id="패스_1279" data-name="패스 1279" d="M5,0a5,5,0,1,0,5,5A5,5,0,0,0,5,0M7.839,5.323H5.587a.669.669,0,1,1-.908-.908V1.071h.645V4.414a.672.672,0,0,1,.264.264H7.84Z" transform="translate(0 0)" fill="#41e4ff"/>
+          </g>
+        </g>
+      </g>
+      <g id="그룹_3083" data-name="그룹 3083" transform="translate(-89 -6)">
+        <text id="트리플킬" transform="translate(636.5 621.104)" fill="#b5b5b5" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="12">트리플킬</tspan></text>
+        <g id="ico-gIft" transform="translate(-699.498 408.104)">
+          <path id="Icon_awesome-gift" data-name="Icon awesome-gift" d="M.625,11.536a.673.673,0,0,0,.625.714H4.375V8.679H.625Zm5,.714H8.75a.673.673,0,0,0,.625-.714V8.679H5.625Zm3.75-7.143H8.553a2.171,2.171,0,0,0,.2-.893A1.857,1.857,0,0,0,7.031,2.25c-.812,0-1.338.475-2.012,1.525C4.346,2.725,3.82,2.25,3.008,2.25A1.857,1.857,0,0,0,1.289,4.214a2.14,2.14,0,0,0,.2.893H.625A.673.673,0,0,0,0,5.821V7.607a.338.338,0,0,0,.313.357H9.688A.338.338,0,0,0,10,7.607V5.821A.673.673,0,0,0,9.375,5.107Zm-6.369,0a.842.842,0,0,1-.781-.893.842.842,0,0,1,.781-.893c.389,0,.676.074,1.682,1.786H3.006Zm4.025,0H5.35c1-1.708,1.283-1.786,1.682-1.786a.842.842,0,0,1,.781.893A.842.842,0,0,1,7.031,5.107Z" transform="translate(1321.998 213.75)" fill="#444"/>
+        </g>
+      </g>
+      <g id="그룹_3047" data-name="그룹 3047" transform="translate(28 -59)">
+        <text id="_1_072" data-name="1,072" transform="translate(631.5 674.104)" fill="#b5b5b5" font-size="10" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="12">1,072</tspan></text>
+        <g id="ico-human" transform="translate(137.916 30.604)">
+          <circle id="타원_32" data-name="타원 32" cx="2.5" cy="2.5" r="2.5" transform="translate(482.085 646.5)" fill="#444"/>
+          <path id="사각형_2121" data-name="사각형 2121" d="M4,0H6a4,4,0,0,1,4,4V4a0,0,0,0,1,0,0H0A0,0,0,0,1,0,4V4A4,4,0,0,1,4,0Z" transform="translate(479.585 652.5)" fill="#444"/>
+        </g>
+      </g>
+      <g id="그룹_3092" data-name="그룹 3092" transform="translate(0 -3.576)">
+        <g id="그룹_3139" data-name="그룹 3139" transform="translate(-348.887 -145.26)" opacity="0.996">
+          <g id="사각형_2110" data-name="사각형 2110" transform="translate(793.387 830.939)" stroke="#00b4d1" stroke-width="1">
+            <rect width="232" height="30" rx="3" stroke="none"/>
+            <rect x="0.5" y="0.5" width="231" height="29" rx="2.5" fill="none"/>
+          </g>
+          <text id="_2020년" data-name="2020년" transform="translate(803.387 836.939)" fill="#fff" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="14">2020년</tspan></text>
+          <g id="그룹_3064" data-name="그룹 3064" transform="translate(357.547 17.733)">
+            <rect id="사각형_1942" data-name="사각형 1942" width="2" height="7" transform="translate(487.341 827.499) rotate(-45)" fill="#00b4d1"/>
+            <rect id="사각형_1943" data-name="사각형 1943" width="2" height="10" transform="translate(497.947 823.963) rotate(45)" fill="#00b4d1"/>
+          </g>
+        </g>
+        <g id="그룹_3140" data-name="그룹 3140" transform="translate(-344.387 -110.26)">
+          <g id="사각형_2110-2" data-name="사각형 2110" transform="translate(793.387 830.939)" stroke="#545454" stroke-width="1">
+            <rect width="222" height="30" rx="3" stroke="none"/>
+            <rect x="0.5" y="0.5" width="221" height="29" rx="2.5" fill="none"/>
+          </g>
+          <text id="_2021년" data-name="2021년" transform="translate(803.387 836.939)" fill="gray" font-size="12" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" letter-spacing="-0.02em"><tspan x="0" y="14">2021년</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect id="사각형_2614" data-name="사각형 2614" width="316" height="90" transform="translate(562 746)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
+

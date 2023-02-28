@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="52.002" height="52" viewBox="0 0 52.002 52">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#101014"/>
+      <stop offset="1" stop-color="#24242c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#af51ff"/>
+      <stop offset="1" stop-color="#01fcb5"/>
+    </linearGradient>
+  </defs>
+  <g id="ico-bg-off" transform="translate(11103.002 -5989)">
+    <rect id="사각형_2587" data-name="사각형 2587" width="52" height="52" rx="8" transform="translate(-11103 5989)" fill="url(#linear-gradient)"/>
+    <path id="합치기_203" data-name="합치기 203" d="M16929-10111h36a8,8,0,0,1,8,8v36a8,8,0,0,1-8,8h-36a8,8,0,0,1-8-8v-36A8,8,0,0,1,16929-10111Z" transform="translate(-28024.002 16100)" opacity="0.3" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

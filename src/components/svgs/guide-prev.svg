@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="ico-guide-left" transform="translate(0 20) rotate(-90)">
+    <circle id="타원_1130" data-name="타원 1130" cx="10" cy="10" r="10" transform="translate(0 20) rotate(-90)" fill="#fff" opacity="0.2"/>
+    <rect id="사각형_2130" data-name="사각형 2130" width="6" height="1.5" transform="translate(5.758 11.591) rotate(-45)" fill="#fff"/>
+    <rect id="사각형_2131" data-name="사각형 2131" width="6" height="1.5" transform="translate(10 7.348) rotate(45)" fill="#fff"/>
+  </g>
+</svg>

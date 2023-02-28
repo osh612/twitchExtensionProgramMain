@@ -1,0 +1,74 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "eslint --ext .js,.vue src"
+  },
+  "dependencies": {
+    "@stomp/stompjs": "^6.1.2",
+    "@tweenjs/tween.js": "^18.6.4",
+    "axios": "^0.26.0",
+    "core-js": "^3.6.5",
+    "hooper": "^0.3.4",
+    "lottie-web": "^5.8.1",
+    "socket.io-client": "^4.4.1",
+    "sockjs": "^0.3.24",
+    "sockjs-client": "^1.6.0",
+    "stompjs": "^2.3.3",
+    "swiper": "^5.4.5",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-clipboard2": "^0.3.3",
+    "vue-gtag": "^1.16.1",
+    "vue-js-toggle-button": "^1.3.3",
+    "vue-lottie": "^0.2.1",
+    "vue-resizable": "^2.1.3",
+    "vue-router": "^3.5.3",
+    "vue-toastify": "^1.8.1",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.1.0",
+    "webstomp-client": "^1.2.6"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "deepmerge": "^4.2.2",
+    "eslint": "^8.12.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-vue": "^8.5.0",
+    "prettier": "^2.6.1",
+    "sass": "~1.32",
+    "sass-loader": "^10.3.1",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "no-mixed-spaces-and-tabs": 0
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
